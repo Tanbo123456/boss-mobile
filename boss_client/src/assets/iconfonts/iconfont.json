@@ -1,0 +1,51 @@
+{
+  "id": "2391536",
+  "name": "zhaopin",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "19959035",
+      "name": "home-fill",
+      "font_class": "home-fill",
+      "unicode": "e723",
+      "unicode_decimal": 59171
+    },
+    {
+      "icon_id": "19959036",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e722",
+      "unicode_decimal": 59170
+    },
+    {
+      "icon_id": "19959061",
+      "name": "message-fill",
+      "font_class": "message-fill",
+      "unicode": "e728",
+      "unicode_decimal": 59176
+    },
+    {
+      "icon_id": "19959066",
+      "name": "message",
+      "font_class": "message",
+      "unicode": "e729",
+      "unicode_decimal": 59177
+    },
+    {
+      "icon_id": "19959089",
+      "name": "people",
+      "font_class": "people",
+      "unicode": "e72d",
+      "unicode_decimal": 59181
+    },
+    {
+      "icon_id": "19959091",
+      "name": "people-fill",
+      "font_class": "people-fill",
+      "unicode": "e72e",
+      "unicode_decimal": 59182
+    }
+  ]
+}
